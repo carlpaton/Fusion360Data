@@ -1,0 +1,3 @@
+Wingspan: 1400mm
+Length: 1187mm
+Battery: 2200-2800 mAh / 4S (Recommended)
